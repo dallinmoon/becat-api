@@ -10,7 +10,7 @@
     "request": "^2.69.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./app.js"
   },
   "license": "ISC"
 }
