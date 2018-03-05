@@ -9,5 +9,8 @@
     "express": "^4.x.x",
     "request": "^2.69.0"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "license": "ISC"
 }
